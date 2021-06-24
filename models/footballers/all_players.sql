@@ -1,0 +1,1 @@
+select * from `dev-mariner-310819.players.football_players`

@@ -1,0 +1,1 @@
+select * from {{ ref('all_players') }} where player_position = 'Midfield'
